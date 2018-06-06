@@ -1,0 +1,9 @@
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Form1.resources
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+F:\Az\QLCuaHang\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
